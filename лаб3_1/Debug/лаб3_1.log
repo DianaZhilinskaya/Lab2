@@ -1,0 +1,20 @@
+﻿Сборка начата 24.09.2016 11:13:41.
+     1>Проект "D:\с++ 3 семестр\лаб3_1\лаб3_1\лаб3_1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\visualstudia прога\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\лаб3_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "лаб3_1.cpp"
+         лаб3_1.cpp
+     1>d:\с++ 3 семестр\лаб3_1\лаб3_1\лаб3_1.cpp(24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>d:\с++ 3 семестр\лаб3_1\лаб3_1\лаб3_1.cpp(30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>d:\с++ 3 семестр\лаб3_1\лаб3_1\лаб3_1.cpp(13): warning C4101: v: неиспользованная локальная переменная
+     1>d:\с++ 3 семестр\лаб3_1\лаб3_1\лаб3_1.cpp(13): warning C4101: s: неиспользованная локальная переменная
+     1>d:\с++ 3 семестр\лаб3_1\лаб3_1\лаб3_1.cpp(13): warning C4101: max: неиспользованная локальная переменная
+       Link:
+         D:\visualstudia прога\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\с++ 3 семестр\лаб3_1\Debug\лаб3_1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\с++ 3 семестр\лаб3_1\Debug\лаб3_1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\с++ 3 семестр\лаб3_1\Debug\лаб3_1.lib" /MACHINE:X86 Debug\Matrix.obj
+         Debug\stdafx.obj
+         "Debug\лаб3_1.obj"
+         лаб3_1.vcxproj -> D:\с++ 3 семестр\лаб3_1\Debug\лаб3_1.exe
+     1>Сборка проекта "D:\с++ 3 семестр\лаб3_1\лаб3_1\лаб3_1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.63

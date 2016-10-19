@@ -37,3 +37,4 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << pryamoug::max_size << endl;
 	return 0;
 }
+
